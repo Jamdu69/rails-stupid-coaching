@@ -1,0 +1,2 @@
+module JamalHelper
+end
